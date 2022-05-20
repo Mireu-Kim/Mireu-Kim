@@ -1,2 +1,2 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mireu-Kim&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mireu-Kim&anuraghazra&theme=dark&show_icons=true)
