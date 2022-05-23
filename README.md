@@ -13,8 +13,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Zepline-F7A41D?style=for-the-badge&logo=Zepline&logoColor=white"/></a>
 
-<br>
-**Free Software, Hell Yeah!**
+<br><br>
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
